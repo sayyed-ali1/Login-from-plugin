@@ -147,17 +147,7 @@ Frontend & WordPress Developer
 
 ---
 
-## 🌐 Live Demo
-
-*(Add your live link here after deployment)*
-
----
-
 ## 📌 Notes
 
 * Built as a learning project for custom WordPress plugin development
 * Demonstrates real-world features like user dashboard and AJAX handling
-
----
-
-⭐ If you like this project, consider giving it a star!
